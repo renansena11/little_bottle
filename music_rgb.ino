@@ -2,14 +2,15 @@ float RGB1[3];
 float RGB2[3];
 float  INC[3];
 
-int red, green, blue;
+int red, green, blue; /*criação de variáveis do led RGB*/
 
 int RedPin   = 11;
-int GreenPin = 10;
+int GreenPin = 10; /*variáveis das portas do arduino*/
 int BluePin  = 9;
 
-float ledDelay;
-int potPin = 2;
+float ledDelay;  /*delay de mudança de estado*/
+int potPin = 2;  /*nessa versão é a entrada do potenciometro para mudança de estado,
+em furuta versão, é a entrada de um circuito analisador da música*/
 float a;
 
 void setup() {
