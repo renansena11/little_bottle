@@ -6,3 +6,12 @@ Project in C++, carried out on an Arduino board, with the objective of changing 
 In the 1st version, the bottle with an RGB LED reacts according to the change of state of a potentiometer.
 
 In the 2nd version, it will receive state changes through filtered signals received from the analyzed music.
+
+Check out the videos of the prototypes made:
+
+[Youtube - garrafa grande]: https://www.youtube.com/watch?v=dsNEmqUHRgM
+
+[Youtube - piramide]: https://www.youtube.com/watch?v=jQbnVcLYoYk
+
+[Youtube - prototipo]: https://www.youtube.com/watch?v=PwGRnc-IGEE
+
