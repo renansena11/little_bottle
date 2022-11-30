@@ -9,6 +9,12 @@ In the 2nd version, it will receive state changes through filtered signals recei
 
 Check out the videos of the prototypes made:
 
+[Youtube - garrafa grande]
+
+[Youtube - piramide]
+
+[Youtube - prototipo]
+
 [Youtube - garrafa grande]: https://www.youtube.com/watch?v=dsNEmqUHRgM
 
 [Youtube - piramide]: https://www.youtube.com/watch?v=jQbnVcLYoYk
